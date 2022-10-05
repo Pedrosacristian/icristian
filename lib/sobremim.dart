@@ -38,11 +38,11 @@ class Tela2 extends StatelessWidget {
       SizedBox(
           height: 5.0,
       ),
-      Text(" Estado civil: Solteiro"),
+      Text(" Estado civil: Solteiro "),
         SizedBox(
           height: 5.0,
         ),
-        Text(" Filhos: Não"),
+        Text(" Filhos: naum"),
         ]
       ),
       ),
